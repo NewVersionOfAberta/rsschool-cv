@@ -1,21 +1,21 @@
+
 # Natalia Papko
 
- ##  Contact Info:
+##  Contact Info:
 
- Gmail: relicviy6@gmail.com
+Gmail: relicviy6@gmail.com
 
- ##  Summary
+##  Summary
 
- I have several goals: 
- 1. Develop my programming skills;
+I have several goals:
 
- 2. Enrich knowledge about Android Development and Machine learning;
+1. Develop my programming skills;
+2. Enrich knowledge about Android Development and Machine learning;
+3. Work on big projects.
 
- 3. Work on big projects.
+## Skills
 
- ## Skills
-
- I have a good knowledge in Delphi and some experiense in C, C++, Java and FASM.
+I have a good knowledge in Delphi and some experiense in C, C++, Java and FASM.
 
 ## Education
 
