@@ -19,8 +19,8 @@
 
 ## Education
 
-BSUIR, Software engineering
+Belarus, BSUIR, Software engineering
 
 ## English
 
-B1 (Intermediate)
+Level: B1 (Intermediate)
